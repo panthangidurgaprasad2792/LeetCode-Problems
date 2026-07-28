@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
