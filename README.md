@@ -10,6 +10,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,11 +42,13 @@
 | [0007-reverse-integer](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +63,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
