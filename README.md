@@ -67,4 +67,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/panthangidurgaprasad2792/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
